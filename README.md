@@ -11,4 +11,6 @@
 
 [課題 (Hello Trema) レポート](https://github.com/handai-trema/hello-trema-Takuya-Saitoh/blob/master/report_hello_trema.md)
 
+[課題 (パッチパネルの機能拡張) レポート](https://github.com/handai-trema/patch-panel-Takuya-Saitoh/blob/master/report3-1.md)
+
 [課題 (ルータの CLI を作ろう) レポート](https://github.com/handai-trema/simple-router-Takuya-Saitoh/blob/master/report05.md)
