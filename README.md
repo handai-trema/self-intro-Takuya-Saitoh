@@ -13,6 +13,8 @@
 
 [課題 (Cbench のボトルネック調査) レポート](https://github.com/handai-trema/cbench-Takuya-Saitoh/blob/master/report.md)
 
+[課題 (複数スイッチ対応版 ラーニングスイッチ) レポート](https://github.com/handai-trema/learning-switch-Takuya-Saitoh/blob/master/report.md)
+
 [課題 (パッチパネルの機能拡張) レポート](https://github.com/handai-trema/patch-panel-Takuya-Saitoh/blob/master/report3-1.md)
 
 [課題 (ルータの CLI を作ろう) レポート](https://github.com/handai-trema/simple-router-Takuya-Saitoh/blob/master/report05.md)
